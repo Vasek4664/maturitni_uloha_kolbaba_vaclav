@@ -1,0 +1,8 @@
+DB_HOST=dbs.spskladno.cz
+DB_USER=student12
+DB_PASSWORD=spsnet
+DB_NAME=vyuka12
+
+
+SECRET_KEY=1
+ADMIN_PASSWORD=1
